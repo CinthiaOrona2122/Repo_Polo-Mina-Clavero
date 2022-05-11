@@ -1,0 +1,16 @@
+C:\Users\CinthiaOrona\OneDrive\Escritorio\Polo Mina Clavero\Clase5_Tarea\PrimerEjercicio\bin\Debug\net5.0\PrimerEjercicio.exe
+C:\Users\CinthiaOrona\OneDrive\Escritorio\Polo Mina Clavero\Clase5_Tarea\PrimerEjercicio\bin\Debug\net5.0\PrimerEjercicio.deps.json
+C:\Users\CinthiaOrona\OneDrive\Escritorio\Polo Mina Clavero\Clase5_Tarea\PrimerEjercicio\bin\Debug\net5.0\PrimerEjercicio.runtimeconfig.json
+C:\Users\CinthiaOrona\OneDrive\Escritorio\Polo Mina Clavero\Clase5_Tarea\PrimerEjercicio\bin\Debug\net5.0\PrimerEjercicio.runtimeconfig.dev.json
+C:\Users\CinthiaOrona\OneDrive\Escritorio\Polo Mina Clavero\Clase5_Tarea\PrimerEjercicio\bin\Debug\net5.0\PrimerEjercicio.dll
+C:\Users\CinthiaOrona\OneDrive\Escritorio\Polo Mina Clavero\Clase5_Tarea\PrimerEjercicio\bin\Debug\net5.0\PrimerEjercicio.pdb
+C:\Users\CinthiaOrona\OneDrive\Escritorio\Polo Mina Clavero\Clase5_Tarea\PrimerEjercicio\obj\Debug\net5.0\PrimerEjercicio.csproj.AssemblyReference.cache
+C:\Users\CinthiaOrona\OneDrive\Escritorio\Polo Mina Clavero\Clase5_Tarea\PrimerEjercicio\obj\Debug\net5.0\PrimerEjercicio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CinthiaOrona\OneDrive\Escritorio\Polo Mina Clavero\Clase5_Tarea\PrimerEjercicio\obj\Debug\net5.0\PrimerEjercicio.AssemblyInfoInputs.cache
+C:\Users\CinthiaOrona\OneDrive\Escritorio\Polo Mina Clavero\Clase5_Tarea\PrimerEjercicio\obj\Debug\net5.0\PrimerEjercicio.AssemblyInfo.cs
+C:\Users\CinthiaOrona\OneDrive\Escritorio\Polo Mina Clavero\Clase5_Tarea\PrimerEjercicio\obj\Debug\net5.0\PrimerEjercicio.csproj.CoreCompileInputs.cache
+C:\Users\CinthiaOrona\OneDrive\Escritorio\Polo Mina Clavero\Clase5_Tarea\PrimerEjercicio\obj\Debug\net5.0\PrimerEjercicio.dll
+C:\Users\CinthiaOrona\OneDrive\Escritorio\Polo Mina Clavero\Clase5_Tarea\PrimerEjercicio\obj\Debug\net5.0\refint\PrimerEjercicio.dll
+C:\Users\CinthiaOrona\OneDrive\Escritorio\Polo Mina Clavero\Clase5_Tarea\PrimerEjercicio\obj\Debug\net5.0\PrimerEjercicio.pdb
+C:\Users\CinthiaOrona\OneDrive\Escritorio\Polo Mina Clavero\Clase5_Tarea\PrimerEjercicio\obj\Debug\net5.0\PrimerEjercicio.genruntimeconfig.cache
+C:\Users\CinthiaOrona\OneDrive\Escritorio\Polo Mina Clavero\Clase5_Tarea\PrimerEjercicio\obj\Debug\net5.0\ref\PrimerEjercicio.dll
