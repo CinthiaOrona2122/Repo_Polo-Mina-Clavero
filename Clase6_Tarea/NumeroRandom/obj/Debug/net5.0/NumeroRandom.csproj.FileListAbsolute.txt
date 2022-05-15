@@ -1,0 +1,16 @@
+C:\Users\CinthiaOrona\OneDrive\Escritorio\Polo Mina Clavero\Clase6_Tarea\NumeroRandom\bin\Debug\net5.0\NumeroRandom.exe
+C:\Users\CinthiaOrona\OneDrive\Escritorio\Polo Mina Clavero\Clase6_Tarea\NumeroRandom\bin\Debug\net5.0\NumeroRandom.deps.json
+C:\Users\CinthiaOrona\OneDrive\Escritorio\Polo Mina Clavero\Clase6_Tarea\NumeroRandom\bin\Debug\net5.0\NumeroRandom.runtimeconfig.json
+C:\Users\CinthiaOrona\OneDrive\Escritorio\Polo Mina Clavero\Clase6_Tarea\NumeroRandom\bin\Debug\net5.0\NumeroRandom.runtimeconfig.dev.json
+C:\Users\CinthiaOrona\OneDrive\Escritorio\Polo Mina Clavero\Clase6_Tarea\NumeroRandom\bin\Debug\net5.0\NumeroRandom.dll
+C:\Users\CinthiaOrona\OneDrive\Escritorio\Polo Mina Clavero\Clase6_Tarea\NumeroRandom\bin\Debug\net5.0\NumeroRandom.pdb
+C:\Users\CinthiaOrona\OneDrive\Escritorio\Polo Mina Clavero\Clase6_Tarea\NumeroRandom\obj\Debug\net5.0\NumeroRandom.csproj.AssemblyReference.cache
+C:\Users\CinthiaOrona\OneDrive\Escritorio\Polo Mina Clavero\Clase6_Tarea\NumeroRandom\obj\Debug\net5.0\NumeroRandom.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CinthiaOrona\OneDrive\Escritorio\Polo Mina Clavero\Clase6_Tarea\NumeroRandom\obj\Debug\net5.0\NumeroRandom.AssemblyInfoInputs.cache
+C:\Users\CinthiaOrona\OneDrive\Escritorio\Polo Mina Clavero\Clase6_Tarea\NumeroRandom\obj\Debug\net5.0\NumeroRandom.AssemblyInfo.cs
+C:\Users\CinthiaOrona\OneDrive\Escritorio\Polo Mina Clavero\Clase6_Tarea\NumeroRandom\obj\Debug\net5.0\NumeroRandom.csproj.CoreCompileInputs.cache
+C:\Users\CinthiaOrona\OneDrive\Escritorio\Polo Mina Clavero\Clase6_Tarea\NumeroRandom\obj\Debug\net5.0\NumeroRandom.dll
+C:\Users\CinthiaOrona\OneDrive\Escritorio\Polo Mina Clavero\Clase6_Tarea\NumeroRandom\obj\Debug\net5.0\refint\NumeroRandom.dll
+C:\Users\CinthiaOrona\OneDrive\Escritorio\Polo Mina Clavero\Clase6_Tarea\NumeroRandom\obj\Debug\net5.0\NumeroRandom.pdb
+C:\Users\CinthiaOrona\OneDrive\Escritorio\Polo Mina Clavero\Clase6_Tarea\NumeroRandom\obj\Debug\net5.0\NumeroRandom.genruntimeconfig.cache
+C:\Users\CinthiaOrona\OneDrive\Escritorio\Polo Mina Clavero\Clase6_Tarea\NumeroRandom\obj\Debug\net5.0\ref\NumeroRandom.dll
