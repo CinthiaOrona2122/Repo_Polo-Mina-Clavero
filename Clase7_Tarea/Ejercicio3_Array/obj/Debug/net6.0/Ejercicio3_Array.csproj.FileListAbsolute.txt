@@ -1,0 +1,15 @@
+C:\Users\CinthiaOrona\OneDrive\Escritorio\Polo Mina Clavero\Clase7_Tarea\Ejercicio3_Array\bin\Debug\net6.0\Ejercicio3_Array.exe
+C:\Users\CinthiaOrona\OneDrive\Escritorio\Polo Mina Clavero\Clase7_Tarea\Ejercicio3_Array\bin\Debug\net6.0\Ejercicio3_Array.deps.json
+C:\Users\CinthiaOrona\OneDrive\Escritorio\Polo Mina Clavero\Clase7_Tarea\Ejercicio3_Array\bin\Debug\net6.0\Ejercicio3_Array.runtimeconfig.json
+C:\Users\CinthiaOrona\OneDrive\Escritorio\Polo Mina Clavero\Clase7_Tarea\Ejercicio3_Array\bin\Debug\net6.0\Ejercicio3_Array.dll
+C:\Users\CinthiaOrona\OneDrive\Escritorio\Polo Mina Clavero\Clase7_Tarea\Ejercicio3_Array\bin\Debug\net6.0\Ejercicio3_Array.pdb
+C:\Users\CinthiaOrona\OneDrive\Escritorio\Polo Mina Clavero\Clase7_Tarea\Ejercicio3_Array\obj\Debug\net6.0\Ejercicio3_Array.csproj.AssemblyReference.cache
+C:\Users\CinthiaOrona\OneDrive\Escritorio\Polo Mina Clavero\Clase7_Tarea\Ejercicio3_Array\obj\Debug\net6.0\Ejercicio3_Array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CinthiaOrona\OneDrive\Escritorio\Polo Mina Clavero\Clase7_Tarea\Ejercicio3_Array\obj\Debug\net6.0\Ejercicio3_Array.AssemblyInfoInputs.cache
+C:\Users\CinthiaOrona\OneDrive\Escritorio\Polo Mina Clavero\Clase7_Tarea\Ejercicio3_Array\obj\Debug\net6.0\Ejercicio3_Array.AssemblyInfo.cs
+C:\Users\CinthiaOrona\OneDrive\Escritorio\Polo Mina Clavero\Clase7_Tarea\Ejercicio3_Array\obj\Debug\net6.0\Ejercicio3_Array.csproj.CoreCompileInputs.cache
+C:\Users\CinthiaOrona\OneDrive\Escritorio\Polo Mina Clavero\Clase7_Tarea\Ejercicio3_Array\obj\Debug\net6.0\Ejercicio3_Array.dll
+C:\Users\CinthiaOrona\OneDrive\Escritorio\Polo Mina Clavero\Clase7_Tarea\Ejercicio3_Array\obj\Debug\net6.0\refint\Ejercicio3_Array.dll
+C:\Users\CinthiaOrona\OneDrive\Escritorio\Polo Mina Clavero\Clase7_Tarea\Ejercicio3_Array\obj\Debug\net6.0\Ejercicio3_Array.pdb
+C:\Users\CinthiaOrona\OneDrive\Escritorio\Polo Mina Clavero\Clase7_Tarea\Ejercicio3_Array\obj\Debug\net6.0\Ejercicio3_Array.genruntimeconfig.cache
+C:\Users\CinthiaOrona\OneDrive\Escritorio\Polo Mina Clavero\Clase7_Tarea\Ejercicio3_Array\obj\Debug\net6.0\ref\Ejercicio3_Array.dll
