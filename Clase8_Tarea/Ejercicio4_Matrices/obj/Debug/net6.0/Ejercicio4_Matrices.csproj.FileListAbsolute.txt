@@ -1,0 +1,15 @@
+C:\Users\CinthiaOrona\OneDrive\Escritorio\Polo Mina Clavero\Clase8_Tarea\Ejercicio4_Matrices\bin\Debug\net6.0\Ejercicio4_Matrices.exe
+C:\Users\CinthiaOrona\OneDrive\Escritorio\Polo Mina Clavero\Clase8_Tarea\Ejercicio4_Matrices\bin\Debug\net6.0\Ejercicio4_Matrices.deps.json
+C:\Users\CinthiaOrona\OneDrive\Escritorio\Polo Mina Clavero\Clase8_Tarea\Ejercicio4_Matrices\bin\Debug\net6.0\Ejercicio4_Matrices.runtimeconfig.json
+C:\Users\CinthiaOrona\OneDrive\Escritorio\Polo Mina Clavero\Clase8_Tarea\Ejercicio4_Matrices\bin\Debug\net6.0\Ejercicio4_Matrices.dll
+C:\Users\CinthiaOrona\OneDrive\Escritorio\Polo Mina Clavero\Clase8_Tarea\Ejercicio4_Matrices\bin\Debug\net6.0\Ejercicio4_Matrices.pdb
+C:\Users\CinthiaOrona\OneDrive\Escritorio\Polo Mina Clavero\Clase8_Tarea\Ejercicio4_Matrices\obj\Debug\net6.0\Ejercicio4_Matrices.csproj.AssemblyReference.cache
+C:\Users\CinthiaOrona\OneDrive\Escritorio\Polo Mina Clavero\Clase8_Tarea\Ejercicio4_Matrices\obj\Debug\net6.0\Ejercicio4_Matrices.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CinthiaOrona\OneDrive\Escritorio\Polo Mina Clavero\Clase8_Tarea\Ejercicio4_Matrices\obj\Debug\net6.0\Ejercicio4_Matrices.AssemblyInfoInputs.cache
+C:\Users\CinthiaOrona\OneDrive\Escritorio\Polo Mina Clavero\Clase8_Tarea\Ejercicio4_Matrices\obj\Debug\net6.0\Ejercicio4_Matrices.AssemblyInfo.cs
+C:\Users\CinthiaOrona\OneDrive\Escritorio\Polo Mina Clavero\Clase8_Tarea\Ejercicio4_Matrices\obj\Debug\net6.0\Ejercicio4_Matrices.csproj.CoreCompileInputs.cache
+C:\Users\CinthiaOrona\OneDrive\Escritorio\Polo Mina Clavero\Clase8_Tarea\Ejercicio4_Matrices\obj\Debug\net6.0\Ejercicio4_Matrices.dll
+C:\Users\CinthiaOrona\OneDrive\Escritorio\Polo Mina Clavero\Clase8_Tarea\Ejercicio4_Matrices\obj\Debug\net6.0\refint\Ejercicio4_Matrices.dll
+C:\Users\CinthiaOrona\OneDrive\Escritorio\Polo Mina Clavero\Clase8_Tarea\Ejercicio4_Matrices\obj\Debug\net6.0\Ejercicio4_Matrices.pdb
+C:\Users\CinthiaOrona\OneDrive\Escritorio\Polo Mina Clavero\Clase8_Tarea\Ejercicio4_Matrices\obj\Debug\net6.0\Ejercicio4_Matrices.genruntimeconfig.cache
+C:\Users\CinthiaOrona\OneDrive\Escritorio\Polo Mina Clavero\Clase8_Tarea\Ejercicio4_Matrices\obj\Debug\net6.0\ref\Ejercicio4_Matrices.dll
