@@ -1,0 +1,15 @@
+C:\Users\CinthiaOrona\OneDrive\Escritorio\Polo Mina Clavero\Clase9_Tarea\Ejercicio5_Arrays2\bin\Debug\net6.0\Ejercicio5_Arrays2.exe
+C:\Users\CinthiaOrona\OneDrive\Escritorio\Polo Mina Clavero\Clase9_Tarea\Ejercicio5_Arrays2\bin\Debug\net6.0\Ejercicio5_Arrays2.deps.json
+C:\Users\CinthiaOrona\OneDrive\Escritorio\Polo Mina Clavero\Clase9_Tarea\Ejercicio5_Arrays2\bin\Debug\net6.0\Ejercicio5_Arrays2.runtimeconfig.json
+C:\Users\CinthiaOrona\OneDrive\Escritorio\Polo Mina Clavero\Clase9_Tarea\Ejercicio5_Arrays2\bin\Debug\net6.0\Ejercicio5_Arrays2.dll
+C:\Users\CinthiaOrona\OneDrive\Escritorio\Polo Mina Clavero\Clase9_Tarea\Ejercicio5_Arrays2\bin\Debug\net6.0\Ejercicio5_Arrays2.pdb
+C:\Users\CinthiaOrona\OneDrive\Escritorio\Polo Mina Clavero\Clase9_Tarea\Ejercicio5_Arrays2\obj\Debug\net6.0\Ejercicio5_Arrays2.csproj.AssemblyReference.cache
+C:\Users\CinthiaOrona\OneDrive\Escritorio\Polo Mina Clavero\Clase9_Tarea\Ejercicio5_Arrays2\obj\Debug\net6.0\Ejercicio5_Arrays2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CinthiaOrona\OneDrive\Escritorio\Polo Mina Clavero\Clase9_Tarea\Ejercicio5_Arrays2\obj\Debug\net6.0\Ejercicio5_Arrays2.AssemblyInfoInputs.cache
+C:\Users\CinthiaOrona\OneDrive\Escritorio\Polo Mina Clavero\Clase9_Tarea\Ejercicio5_Arrays2\obj\Debug\net6.0\Ejercicio5_Arrays2.AssemblyInfo.cs
+C:\Users\CinthiaOrona\OneDrive\Escritorio\Polo Mina Clavero\Clase9_Tarea\Ejercicio5_Arrays2\obj\Debug\net6.0\Ejercicio5_Arrays2.csproj.CoreCompileInputs.cache
+C:\Users\CinthiaOrona\OneDrive\Escritorio\Polo Mina Clavero\Clase9_Tarea\Ejercicio5_Arrays2\obj\Debug\net6.0\Ejercicio5_Arrays2.dll
+C:\Users\CinthiaOrona\OneDrive\Escritorio\Polo Mina Clavero\Clase9_Tarea\Ejercicio5_Arrays2\obj\Debug\net6.0\refint\Ejercicio5_Arrays2.dll
+C:\Users\CinthiaOrona\OneDrive\Escritorio\Polo Mina Clavero\Clase9_Tarea\Ejercicio5_Arrays2\obj\Debug\net6.0\Ejercicio5_Arrays2.pdb
+C:\Users\CinthiaOrona\OneDrive\Escritorio\Polo Mina Clavero\Clase9_Tarea\Ejercicio5_Arrays2\obj\Debug\net6.0\Ejercicio5_Arrays2.genruntimeconfig.cache
+C:\Users\CinthiaOrona\OneDrive\Escritorio\Polo Mina Clavero\Clase9_Tarea\Ejercicio5_Arrays2\obj\Debug\net6.0\ref\Ejercicio5_Arrays2.dll
